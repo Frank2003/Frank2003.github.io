@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "记录｜在WordPress设立HTTPS"
-catefories: wordpress https
+categories: wordpress https
 tags: https
 ---
 

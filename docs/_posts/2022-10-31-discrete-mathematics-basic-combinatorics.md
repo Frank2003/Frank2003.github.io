@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "笔记｜第四章: 组合和概率基础"
-catefories: wordpress https
-tags: https
+categories: 笔记
+tags: 北京大学课程, 离散数学与结构
 ---
 
 # Table of Contents
