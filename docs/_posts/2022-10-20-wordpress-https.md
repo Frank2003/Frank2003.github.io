@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "记录｜在WordPress设立HTTPS"
-categories: wordpress https
-tags: https
+categories: 记录
+tags: wordpress, https
 ---
 
 TL;DR: 根据 [HTTPS for WordPress – WordPress.org Forums](https://wordpress.org/support/article/https-for-wordpress/) 上的指示操作即可。
