@@ -14,4 +14,6 @@ category: 记录, 修
 - 解决方法：`Symbol’s function definition is void: s-trim`
   - 解决方法：安装字符串处理包`s`（`M-x package-install RET s RET`）。
 
+最后另外魔改了一下，变成了[这样](https://gist.github.com/frank3215/9648eb1d9bfec594298fead382b90351)。
+
 后记：后来发现了个star更多的2016年的[cnblogs](https://www.cnblogs.com/halberd-lee/p/10989782.html)方案，但懒得折腾了……
